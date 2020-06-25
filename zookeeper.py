@@ -129,7 +129,7 @@ while True:
       num = int(user_input)
       print(animals[num])
    else:
-      print('See you')
+      print('See you!')
       break
     
     
